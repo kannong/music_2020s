@@ -204,56 +204,56 @@ var JaySongsheet = [
     "author":"小肥",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/mp3/01.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/cover/01.jpg",
-    "lrc":"../all_lrc/lrc2020/1_废柴-小肥.lrc"
+    "lrc":"../all_lrc/lrc2021/1_废柴-小肥.lrc"
   },
   {
     "title":"你好吗",
     "author":"方皓玟",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/mp3/02.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/cover/02.jpg",
-    "lrc":"../all_lrc/lrc2020/2_你好吗-方皓玟.lrc"
+    "lrc":"../all_lrc/lrc2021/2_你好吗-方皓玟.lrc"
   },
   {
     "title":"自白的勇气",
     "author":"林二汶",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/mp3/03.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/cover/03.jpg",
-    "lrc":"../all_lrc/lrc2020/3_自白的勇气-林二汶.lrc"
+    "lrc":"../all_lrc/lrc2021/3_自白的勇气-林二汶.lrc"
   },
   {
     "title":"佛系人生",
     "author":"许廷铿",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/mp3/04.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/cover/04.jpg",
-    "lrc":"../all_lrc/lrc2020/4_佛系人生-许廷铿.lrc"
+    "lrc":"../all_lrc/lrc2021/4_佛系人生-许廷铿.lrc"
   },
   {
     "title":"别放弃治疗",
     "author":"连诗雅",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/mp3/05.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/cover/05.jpg",
-    "lrc":"../all_lrc/lrc2020/5_别放弃治疗-连诗雅.lrc"
+    "lrc":"../all_lrc/lrc2021/5_别放弃治疗-连诗雅.lrc"
   },
   {
     "title":"最好好好讲再见",
     "author":"陈天翱",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/mp3/06.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/cover/06.jpg",
-    "lrc":"../all_lrc/lrc2020/6_最好好好讲再见-陈天翱.lrc"
+    "lrc":"../all_lrc/lrc2021/6_最好好好讲再见-陈天翱.lrc"
   },
   {
     "title":"我的男朋友",
     "author":"达明一派",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/mp3/07.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/cover/07.jpg",
-    "lrc":"../all_lrc/lrc2020/7_我的男朋友-达明一派.lrc"
+    "lrc":"../all_lrc/lrc2021/7_我的男朋友-达明一派.lrc"
   },
   {
     "title":"两种人 Love Follows",
     "author":"何嘉莉",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/mp3/08.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/cover/08.jpg",
-    "lrc":"../all_lrc/lrc2020/8_两种人 Love Follows-何嘉莉.lrc"
+    "lrc":"../all_lrc/lrc2021/8_两种人 Love Follows-何嘉莉.lrc"
   },
 
   // 2020 小号
@@ -334,77 +334,77 @@ var JaySongsheet = [
     "author":"黎明 张敬轩",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/mp3/09.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/cover/09.jpg",
-    "lrc":"../all_lrc/lrc2020/9_Old Fashioned-黎明 张敬轩.lrc"
+    "lrc":"../all_lrc/lrc2021/9_Old Fashioned-黎明 张敬轩.lrc"
   },
   {
     "title":"烟花纪",
     "author":"容祖儿",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/mp3/10.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/cover/10.jpg",
-    "lrc":"../all_lrc/lrc2020/10_烟花纪-容祖儿.lrc"
+    "lrc":"../all_lrc/lrc2021/10_烟花纪-容祖儿.lrc"
   },
   {
     "title":"辛苦你了",
     "author":"容祖儿",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/mp3/11.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/cover/11.jpg",
-    "lrc":"../all_lrc/lrc2020/11_辛苦你了-容祖儿.lrc"
+    "lrc":"../all_lrc/lrc2021/11_辛苦你了-容祖儿.lrc"
   },
   {
     "title":"何日不再来",
     "author":"邓丽欣",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/mp3/12.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/cover/12.jpg",
-    "lrc":"../all_lrc/lrc2020/12_何日不再来-邓丽欣.lrc"
+    "lrc":"../all_lrc/lrc2021/12_何日不再来-邓丽欣.lrc"
   },
   {
     "title":"一个人的地球",
     "author":"张敬轩",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/mp3/13.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/cover/13.jpg",
-    "lrc":"../all_lrc/lrc2020/13_一个人的地球 (SACD Mastering)-张敬轩.lrc"
+    "lrc":"../all_lrc/lrc2021/13_一个人的地球 (SACD Mastering)-张敬轩.lrc"
   },
   {
     "title":"花样年华",
     "author":"郭子",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/mp3/14.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/cover/14.jpg",
-    "lrc":"../all_lrc/lrc2020/14_花样年华-郭子.lrc"
+    "lrc":"../all_lrc/lrc2021/14_花样年华-郭子.lrc"
   },
   {
     "title":"因為愛所以恨",
     "author":"潘裕文",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/mp3/15.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/cover/15.jpg",
-    "lrc":"../all_lrc/lrc2020/15_因為愛所以恨-潘裕文.lrc"
+    "lrc":"../all_lrc/lrc2021/15_因為愛所以恨-潘裕文.lrc"
   },
   {
     "title":"无人知晓的浪漫",
     "author":"潘裕文",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/mp3/16.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/cover/16.jpg",
-    "lrc":"../all_lrc/lrc2020/16_无人知晓的浪漫-潘裕文.lrc"
+    "lrc":"../all_lrc/lrc2021/16_无人知晓的浪漫-潘裕文.lrc"
   },
   {
     "title":"迟了悔改",
     "author":"周殷廷",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/mp3/17.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/cover/17.jpg",
-    "lrc":"../all_lrc/lrc2020/17_迟了悔改-周殷廷.lrc"
+    "lrc":"../all_lrc/lrc2021/17_迟了悔改-周殷廷.lrc"
   },
   {
     "title":"你为何还未睡",
     "author":"邓思朗",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/mp3/18.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/cover/18.jpg",
-    "lrc":"../all_lrc/lrc2020/18_你为何还未睡-邓思朗.lrc"
+    "lrc":"../all_lrc/lrc2021/18_你为何还未睡-邓思朗.lrc"
   },
   {
     "title":"记忆棉",
     "author":"MC 张天赋",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/mp3/19.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2021/cover/19.jpg",
-    "lrc":"../all_lrc/lrc2020/19_记忆棉-MC 张天赋.lrc"
+    "lrc":"../all_lrc/lrc2021/19_记忆棉-MC 张天赋.lrc"
   }
 
       
