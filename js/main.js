@@ -112,6 +112,7 @@ document.addEventListener("keydown", function(event) {
 
 //外接歌单置入
 var JaySongsheet = [
+  // 2020 大号
     {
         "title":"幻爱",
         "author":"小尘埃",
@@ -147,6 +148,127 @@ var JaySongsheet = [
       "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/05.jpg",
       "lrc":"../all_lrc/lrc2020/5_拼命无恙-林家谦.lrc"
   },
+  {
+      "title":"自由之夏",
+      "author":"黄耀明",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/06.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/06.jpg",
+      "lrc":"../all_lrc/lrc2020/6_自由之夏-黄耀明.lrc"
+  },
+  {
+      "title":"恨",
+      "author":"許廷鏗",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/07.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/07.jpg",
+      "lrc":"../all_lrc/lrc2020/7_恨-許廷鏗.lrc"
+  },
+  {
+      "title":"慌",
+      "author":"許廷鏗",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/08.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/08.jpg",
+      "lrc":"../all_lrc/lrc2020/8_慌-許廷鏗.lrc"
+  },
+  {
+      "title":"贱",
+      "author":"許廷鏗",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/09.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/09.jpg",
+      "lrc":"../all_lrc/lrc2020/9_贱-許廷鏗.lrc"
+  },
+  {
+      "title":"谎",
+      "author":"許廷鏗",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/10.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/10.jpg",
+      "lrc":"../all_lrc/lrc2020/10_谎-許廷鏗.lrc"
+  },
+  {
+      "title":"亲密距离",
+      "author":"刘美君",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/11.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/11.jpg",
+      "lrc":"../all_lrc/lrc2020/11_亲密距离-刘美君.lrc"
+  },
+  {
+      "title":"只想死于你身边",
+      "author":"谢安琪",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/12.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/12.jpg",
+      "lrc":"../all_lrc/lrc2020/12_只想死于你身边-谢安琪.lrc"
+  },
+
+  // 2020 小号
+  {
+      "title":"亲密距离",
+      "author":"李幸倪",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/13.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/13.jpg",
+      "lrc":"../all_lrc/lrc2020/13_敢-李幸倪.lrc"
+  },
+  {
+      "title":"开错灯",
+      "author":"李幸倪",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/14.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/14.jpg",
+      "lrc":"../all_lrc/lrc2020/14_开错灯-李幸倪.lrc"
+  },
+  {
+      "title":"开灯 . 熄灯 (熄灯版)",
+      "author":"李幸倪",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/15.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/15.jpg",
+      "lrc":"../all_lrc/lrc2020/15_开灯 . 熄灯 (熄灯版)-李幸倪.lrc"
+  },
+  {
+      "title":"开灯 . 熄灯 (开灯版)",
+      "author":"李幸倪",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/16.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/16.jpg",
+      "lrc":"../all_lrc/lrc2020/16_开灯 . 熄灯 (开灯版)-李幸倪.lrc"
+  },
+  {
+      "title":"幸福门",
+      "author":"李幸倪",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/17.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/17.jpg",
+      "lrc":"../all_lrc/lrc2020/17_幸福门-李幸倪.lrc"
+  },
+  {
+      "title":"美男子与香烟",
+      "author":"李幸倪",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/18.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/18.jpg",
+      "lrc":"../all_lrc/lrc2020/18_美男子与香烟-李幸倪.lrc"
+  },
+  {
+      "title":"别人的家",
+      "author":"李幸倪",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/19.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/19.jpg",
+      "lrc":"../all_lrc/lrc2020/19_别人的家-李幸倪.lrc"
+  },
+  {
+      "title":"搬",
+      "author":"李幸倪",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/20.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/20.jpg",
+      "lrc":"../all_lrc/lrc2020/20_搬-李幸倪.lrc"
+  },
+  {
+      "title":"成家",
+      "author":"李幸倪",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/21.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/21.jpg",
+      "lrc":"../all_lrc/lrc2020/21_成家-李幸倪.lrc"
+  },
+  {
+      "title":"See You Next Time",
+      "author":"AGA 江海迦",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/22.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/22.jpg",
+      "lrc":"../all_lrc/lrc2020/22_See You Next Time-AGA.lrc"
+  }
 ];
 var t_load = setInterval(() => {
   if (document.querySelector("meting-js").aplayer != undefined){
