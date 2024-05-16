@@ -342,6 +342,87 @@ var JaySongsheet = [
     "lrc":"../all_lrc/lrc2022/12_漂流教室-古巨基 Edan 呂爵安.lrc"
   },
 
+  // 2023 大号
+  {
+    "title":"52赫兹",
+    "author":"Kolor",
+    "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/mp3/01.mp3",
+    "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/cover/01.jpg",
+    "lrc":"../all_lrc/lrc2023/1_52赫兹-Kolor.lrc"
+  },
+  {
+    "title":"未生",
+    "author":"吴林峰",
+    "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/mp3/02.mp3",
+    "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/cover/02.jpg",
+    "lrc":"../all_lrc/lrc2023/2_未生-吴林峰.lrc"
+  },
+  {
+    "title":"怪我只敢做好人",
+    "author":"林家谦",
+    "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/mp3/03.mp3",
+    "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/cover/03.jpg",
+    "lrc":"../all_lrc/lrc2023/3_怪我只敢做好人-林家谦.lrc"
+  },
+  {
+    "title":"十年如一日",
+    "author":"陈慧敏",
+    "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/mp3/04.mp3",
+    "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/cover/04.jpg",
+    "lrc":"../all_lrc/lrc2023/4_十年如一日-陈慧敏.lrc"
+  },
+  {
+    "title":"命",
+    "author":"蓝奕邦",
+    "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/mp3/05.mp3",
+    "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/cover/05.jpg",
+    "lrc":"../all_lrc/lrc2023/5_命-蓝奕邦.lrc"
+  },
+  {
+    "title":"情定唐人街",
+    "author":"蓝奕邦",
+    "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/mp3/06.mp3",
+    "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/cover/06.jpg",
+    "lrc":"../all_lrc/lrc2023/6_情定唐人街-蓝奕邦.lrc"
+  },
+
+  // 2024 大号
+  {
+    "title":"自己愛情自己愛",
+    "author":"陈芳语",
+    "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2024/mp3/01.mp3",
+    "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2024/cover/01.jpg",
+    "lrc":"../all_lrc/lrc2024/1_自己愛情自己愛-陈芳语.lrc"
+  },
+  {
+    "title":"拯救我自己",
+    "author":"陈慧敏",
+    "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2024/mp3/02.mp3",
+    "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2024/cover/02.jpg",
+    "lrc":"../all_lrc/lrc2024/2_拯救我自己-陈慧敏.lrc"
+  },
+  {
+    "title":"Control Freak",
+    "author":"小尘埃",
+    "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2024/mp3/03.mp3",
+    "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2024/cover/03.jpg",
+    "lrc":"../all_lrc/lrc2024/3_Control Freak-小尘埃.lrc"
+  },
+  {
+    "title":"普通人",
+    "author":"刘威煌",
+    "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2024/mp3/04.mp3",
+    "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2024/cover/04.jpg",
+    "lrc":"../all_lrc/lrc2024/4_普通人-刘威煌.lrc"
+  },
+  {
+    "title":"百妖夜行的修行",
+    "author":"JACE",
+    "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2024/mp3/06.mp3",
+    "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2024/cover/06.jpg",
+    "lrc":"../all_lrc/lrc2024/6_百妖夜行的修行-JACE.lrc"
+  },
+
   // 2020 小号
   {
       "title":"亲密距离",
@@ -500,6 +581,52 @@ var JaySongsheet = [
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/mp3/13.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/cvover/13.jpg",
     "lrc":"../all_lrc/lrc2022/13_不演了-潘嘉丽.lrc"
+  },
+
+  // 2023 小号
+  {
+    "title":"Miss u Goodbye",
+    "author":"AGA 江海迦",
+    "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/mp3/07.mp3",
+    "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/cover/07.jpg",
+    "lrc":"../all_lrc/lrc2023/7_Miss u Goodbye-AGA.lrc"
+  },
+  {
+    "title":"以为只是没送花",
+    "author":"郭嘉骏",
+    "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/mp3/08.mp3",
+    "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/cover/08.jpg",
+    "lrc":"../all_lrc/lrc2023/8_以为只是没送花-193.lrc"
+  },
+  {
+    "title":"烈爱成灰",
+    "author":"陈慧琳",
+    "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/mp3/09.mp3",
+    "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/cover/09.jpg",
+    "lrc":"../all_lrc/lrc2023/9_烈爱成灰-陈慧琳.lrc"
+  },
+  {
+    "title":"谈情的价值",
+    "author":"陈慧琳",
+    "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/mp3/10.mp3",
+    "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/cover/10.jpg",
+    "lrc":"../all_lrc/lrc2023/10_谈情的价值-陈慧琳.lrc"
+  },
+  {
+    "title":"Want",
+    "author":"周殷廷",
+    "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/mp3/11.mp3",
+    "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2023/cover/11.jpg",
+    "lrc":"../all_lrc/lrc2023/11_Want-周殷廷.lrc"
+  },
+
+  // 2024 小号
+  {
+    "title":"Why You",
+    "author":"AGA 江海迦",
+    "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2024/mp3/05.mp3",
+    "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2024/cover/05.jpg",
+    "lrc":"../all_lrc/lrc2024/5_Why You-AGA 江海迦.lrc"
   }
       
 ];
