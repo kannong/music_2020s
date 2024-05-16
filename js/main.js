@@ -113,18 +113,18 @@ document.addEventListener("keydown", function(event) {
 //外接歌单置入
 var JaySongsheet = [
     {
-        "title":"你为何还未睡",
-        "author":"邓思朗",
-        "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031119274.mp3",
-        "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405031120468.jpg",
-        "lrc":"../all_lrc/niweihe.lrc"
+        "title":"幻爱",
+        "author":"小尘埃",
+        "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/01.mp3",
+        "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/01.jpg",
+        "lrc":"../all_lrc/lrc2020/1_幻爱-小尘埃.lrc"
     },
     {
-      "title":"碧玉",
-      "author":"王菀之",
-      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/202405021111945.mp3",
-      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/img/碧玉-专辑封面.png",
-      "lrc":"../all_lrc/biyu.lrc"
+      "title":"幻爱（国语版）",
+      "author":"小尘埃",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/01.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/01.jpg",
+      "lrc":"../all_lrc/lrc2020/2_幻爱（国语版）-小尘埃.lrc"
    }
 ];
 var t_load = setInterval(() => {
