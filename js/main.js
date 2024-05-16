@@ -122,8 +122,8 @@ var JaySongsheet = [
     {
       "title":"幻爱（国语版）",
       "author":"小尘埃",
-      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/01.mp3",
-      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/01.jpg",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/02.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/02.jpg",
       "lrc":"../all_lrc/lrc2020/2_幻爱（国语版）-小尘埃.lrc"
    }
 ];
