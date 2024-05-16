@@ -125,7 +125,28 @@ var JaySongsheet = [
       "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/02.mp3",
       "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/02.jpg",
       "lrc":"../all_lrc/lrc2020/2_幻爱（国语版）-小尘埃.lrc"
-   }
+   },
+   {
+      "title":"碧玉",
+      "author":"王菀之",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/03.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/03.jpg",
+      "lrc":"../all_lrc/lrc2020/3_碧玉-王菀之.lrc"
+   },
+   {
+      "title":"无名指的勇气",
+      "author":"林欣彤",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/04.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/04.jpg",
+      "lrc":"../all_lrc/lrc2020/4_无名指的勇气-林欣彤.lrc"
+   },
+   {
+      "title":"拼命无恙",
+      "author":"林家谦",
+      "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/mp3/05.mp3",
+      "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2020/cover/05.jpg",
+      "lrc":"../all_lrc/lrc2020/5_拼命无恙-林家谦.lrc"
+  },
 ];
 var t_load = setInterval(() => {
   if (document.querySelector("meting-js").aplayer != undefined){
