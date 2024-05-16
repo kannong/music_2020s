@@ -262,84 +262,84 @@ var JaySongsheet = [
     "author":"林家谦",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/mp3/01.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/cvover/01.jpg",
-    "lrc":"../all_lrc/lrc2021/1_某种老朋友-林家谦.lrc"
+    "lrc":"../all_lrc/lrc2022/1_某种老朋友-林家谦.lrc"
   },
   {
     "title":"海底隧道",
     "author":"Kolor",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/mp3/02.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/cvover/02.jpg",
-    "lrc":"../all_lrc/lrc2021/2_海底隧道-Kolor.lrc"
+    "lrc":"../all_lrc/lrc2022/2_海底隧道-Kolor.lrc"
   },
   {
     "title":"推理的爱",
     "author":"Yuta",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/mp3/03.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/cvover/03.jpg",
-    "lrc":"../all_lrc/lrc2021/3_推理的爱-Yuta.lrc"
+    "lrc":"../all_lrc/lrc2022/3_推理的爱-Yuta.lrc"
   },
   {
     "title":"修罗场",
     "author":"许廷铿",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/mp3/04.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/cvover/04.jpg",
-    "lrc":"../all_lrc/lrc2021/4_修罗场-许廷铿.lrc"
+    "lrc":"../all_lrc/lrc2022/4_修罗场-许廷铿.lrc"
   },
   {
     "title":"没有人可以为你的幸福负责",
     "author":"许廷铿",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/mp3/05.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/cvover/05.jpg",
-    "lrc":"../all_lrc/lrc2021/5_没有人可以为你的幸福负责-许廷铿.lrc"
+    "lrc":"../all_lrc/lrc2022/5_没有人可以为你的幸福负责-许廷铿.lrc"
   },
   {
     "title":"有今生没来世",
     "author":"许廷铿",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/mp3/06.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/cvover/06.jpg",
-    "lrc":"../all_lrc/lrc2021/6_有今生没来世-许廷铿.lrc"
+    "lrc":"../all_lrc/lrc2022/6_有今生没来世-许廷铿.lrc"
   },
   {
     "title":"煽风点火",
     "author":"许廷铿",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/mp3/07.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/cvover/07.jpg",
-    "lrc":"../all_lrc/lrc2021/7_煽风点火-许廷铿.lrc"
+    "lrc":"../all_lrc/lrc2022/7_煽风点火-许廷铿.lrc"
   },
   {
     "title":"都是别人的",
     "author":"许廷铿",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/mp3/08.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/cvover/08.jpg",
-    "lrc":"../all_lrc/lrc2021/8_都是别人的-许廷铿.lrc"
+    "lrc":"../all_lrc/lrc2022/8_都是别人的-许廷铿.lrc"
   },
   {
     "title":"旁听他人的秘密",
     "author":"许廷铿",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/mp3/09.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/cvover/09.jpg",
-    "lrc":"../all_lrc/lrc2021/9_旁听他人的秘密-许廷铿.lrc"
+    "lrc":"../all_lrc/lrc2022/9_旁听他人的秘密-许廷铿.lrc"
   },
   {
     "title":"小奇迹日",
     "author":"许廷铿",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/mp3/10.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/cvover/10.jpg",
-    "lrc":"../all_lrc/lrc2021/10_小奇迹日-许廷铿.lrc"
+    "lrc":"../all_lrc/lrc2022/10_小奇迹日-许廷铿.lrc"
   },
   {
     "title":"自我安慰",
     "author":"古巨基 MC 張天賦",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/mp3/11.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/cvover/11.jpg",
-    "lrc":"../all_lrc/lrc2021/11_自我安慰-古巨基 MC 張天賦.lrc"
+    "lrc":"../all_lrc/lrc2022/11_自我安慰-古巨基 MC 張天賦.lrc"
   },
   {
     "title":"漂流教室",
     "author":"古巨基 Edan 呂爵安",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/mp3/12.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/cvover/12.jpg",
-    "lrc":"../all_lrc/lrc2021/12_漂流教室-古巨基 Edan 呂爵安.lrc"
+    "lrc":"../all_lrc/lrc2022/12_漂流教室-古巨基 Edan 呂爵安.lrc"
   },
 
   // 2020 小号
@@ -499,7 +499,7 @@ var JaySongsheet = [
     "author":"潘嘉丽",
     "url":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/mp3/13.mp3",
     "pic":"https://kannong.oss-cn-shenzhen.aliyuncs.com/xiye/everyyears/2020s/2022/cvover/13.jpg",
-    "lrc":"../all_lrc/lrc2021/13_不演了-潘嘉丽.lrc"
+    "lrc":"../all_lrc/lrc2022/13_不演了-潘嘉丽.lrc"
   }
       
 ];
